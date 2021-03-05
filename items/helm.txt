@@ -1,0 +1,11 @@
+name: Strange helm
+armor: 5
+
+name: Raven's crown
+armor: 3
+
+name: Barbarian helm
+armor: 2
+
+name: monastic helm
+armor: 1
