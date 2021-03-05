@@ -1,0 +1,11 @@
+name: Heart of Iron
+armor: 12
+
+name: Chain Mail
+armor: 9
+
+name: Barbarian Tunic
+armor: 6
+
+name: Battle Armor
+armor: 8
