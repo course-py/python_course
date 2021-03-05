@@ -1,0 +1,15 @@
+name: Crescent axe
+damage: 10-20
+
+name: Barbarian sword
+damage: 15-45
+
+name: Blazing spear
+damage: 30-40
+
+name: Barbarian axe
+damage: 25-35
+
+name: Toporok
+damage: 30-32
+
