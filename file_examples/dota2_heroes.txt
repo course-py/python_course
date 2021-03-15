@@ -1,0 +1,118 @@
+id,attack_type,legs,localized_name,primary_attr
+1,Melee,2,Anti-Mage,agi
+2,Melee,2,Axe,str
+3,Ranged,4,Bane,int
+4,Melee,2,Bloodseeker,agi
+5,Ranged,2,Crystal Maiden,int
+6,Ranged,2,Drow Ranger,agi
+7,Melee,2,Earthshaker,str
+8,Melee,2,Juggernaut,agi
+9,Ranged,2,Mirana,agi
+10,Ranged,0,Morphling,agi
+11,Ranged,0,Shadow Fiend,agi
+12,Melee,2,Phantom Lancer,agi
+13,Ranged,2,Puck,int
+14,Melee,2,Pudge,str
+15,Ranged,0,Razor,agi
+16,Melee,6,Sand King,str
+17,Ranged,2,Storm Spirit,int
+18,Melee,2,Sven,str
+19,Melee,2,Tiny,str
+20,Ranged,2,Vengeful Spirit,agi
+21,Ranged,2,Windranger,int
+22,Ranged,2,Zeus,int
+23,Melee,2,Kunkka,str
+25,Ranged,2,Lina,int
+26,Ranged,2,Lion,int
+27,Ranged,2,Shadow Shaman,int
+28,Melee,0,Slardar,str
+29,Melee,2,Tidehunter,str
+30,Ranged,2,Witch Doctor,int
+31,Ranged,2,Lich,int
+32,Melee,2,Riki,agi
+33,Ranged,0,Enigma,int
+34,Ranged,2,Tinker,int
+35,Ranged,2,Sniper,agi
+36,Ranged,2,Necrophos,int
+37,Ranged,2,Warlock,int
+38,Melee,2,Beastmaster,str
+39,Ranged,2,Queen of Pain,int
+40,Ranged,0,Venomancer,agi
+41,Melee,2,Faceless Void,agi
+42,Melee,2,Wraith King,str
+43,Ranged,2,Death Prophet,int
+44,Melee,2,Phantom Assassin,agi
+45,Ranged,2,Pugna,int
+46,Ranged,2,Templar Assassin,agi
+47,Ranged,0,Viper,agi
+48,Ranged,2,Luna,agi
+49,Melee,2,Dragon Knight,str
+50,Ranged,2,Dazzle,int
+51,Melee,2,Clockwerk,str
+52,Ranged,4,Leshrac,int
+53,Ranged,2,Nature's Prophet,int
+54,Melee,2,Lifestealer,str
+55,Melee,2,Dark Seer,int
+56,Ranged,2,Clinkz,agi
+57,Melee,2,Omniknight,str
+58,Ranged,4,Enchantress,int
+59,Ranged,2,Huskar,str
+60,Melee,2,Night Stalker,str
+61,Melee,8,Broodmother,agi
+62,Melee,2,Bounty Hunter,agi
+63,Ranged,4,Weaver,agi
+64,Ranged,2,Jakiro,int
+65,Ranged,2,Batrider,int
+66,Ranged,2,Chen,int
+67,Melee,0,Spectre,agi
+68,Ranged,2,Ancient Apparition,int
+69,Melee,2,Doom,str
+70,Melee,2,Ursa,agi
+71,Melee,2,Spirit Breaker,str
+72,Ranged,2,Gyrocopter,agi
+73,Melee,2,Alchemist,str
+74,Ranged,2,Invoker,int
+75,Ranged,2,Silencer,int
+76,Ranged,4,Outworld Devourer,int
+77,Melee,2,Lycan,str
+78,Melee,2,Brewmaster,str
+79,Ranged,2,Shadow Demon,int
+80,Ranged,2,Lone Druid,agi
+81,Melee,2,Chaos Knight,str
+82,Melee,2,Meepo,agi
+83,Melee,2,Treant Protector,str
+84,Melee,2,Ogre Magi,int
+85,Melee,2,Undying,str
+86,Ranged,2,Rubick,int
+87,Ranged,2,Disruptor,int
+88,Melee,6,Nyx Assassin,agi
+89,Melee,0,Naga Siren,agi
+90,Ranged,2,Keeper of the Light,int
+91,Ranged,0,Io,str
+92,Ranged,2,Visage,int
+93,Melee,2,Slark,agi
+94,Ranged,0,Medusa,agi
+95,Ranged,2,Troll Warlord,agi
+96,Melee,4,Centaur Warrunner,str
+97,Melee,4,Magnus,str
+98,Melee,2,Timbersaw,str
+99,Melee,2,Bristleback,str
+100,Melee,2,Tusk,str
+101,Ranged,2,Skywrath Mage,int
+102,Melee,2,Abaddon,str
+103,Melee,2,Elder Titan,str
+104,Melee,2,Legion Commander,str
+105,Ranged,6,Techies,int
+106,Melee,2,Ember Spirit,agi
+107,Melee,2,Earth Spirit,str
+108,Melee,2,Underlord,str
+109,Melee,2,Terrorblade,agi
+110,Ranged,2,Phoenix,str
+111,Ranged,2,Oracle,int
+112,Ranged,2,Winter Wyvern,int
+113,Ranged,2,Arc Warden,agi
+114,Melee,2,Monkey King,agi
+119,Ranged,2,Dark Willow,int
+120,Melee,2,Pangolier,agi
+121,Ranged,2,Grimstroke,int
+129,Melee,2,Mars,str
